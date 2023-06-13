@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "includes": [
+      {
+        "pattern": "\\QMETA-INF/native/libconscrypt_openjdk_jni-linux-x86_64.so\\E"
+      },
+      {
+        "pattern": "\\Qorg/conscrypt/conscrypt.properties\\E"
+      },
+      {
+        "pattern": "java.base:\\Qjdk/internal/icu/impl/data/icudt67b/nfkc.nrm\\E"
+      }
+    ]
+  },
+  "bundles": []
+}

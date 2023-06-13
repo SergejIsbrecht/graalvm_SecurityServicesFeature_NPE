@@ -1,0 +1,111 @@
+[
+  {
+    "name": "[B"
+  },
+  {
+    "name": "[Ljava.lang.Object;"
+  },
+  {
+    "name": "[Ljava.lang.String;"
+  },
+  {
+    "name": "java.io.InputStream",
+    "methods": [
+      {
+        "name": "read",
+        "parameterTypes": [
+          "byte[]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.io.OutputStream",
+    "methods": [
+      {
+        "name": "flush",
+        "parameterTypes": []
+      },
+      {
+        "name": "write",
+        "parameterTypes": [
+          "byte[]"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.lang.Integer",
+    "methods": [
+      {
+        "name": "valueOf",
+        "parameterTypes": [
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "java.lang.Object"
+  },
+  {
+    "name": "java.lang.String"
+  },
+  {
+    "name": "java.nio.Buffer",
+    "methods": [
+      {
+        "name": "limit",
+        "parameterTypes": []
+      },
+      {
+        "name": "position",
+        "parameterTypes": []
+      }
+    ]
+  },
+  {
+    "name": "java.nio.ByteBuffer"
+  },
+  {
+    "name": "java.util.Calendar",
+    "methods": [
+      {
+        "name": "set",
+        "parameterTypes": [
+          "int",
+          "int",
+          "int",
+          "int",
+          "int",
+          "int"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "org.conscrypt.CryptoUpcalls"
+  },
+  {
+    "name": "org.conscrypt.NativeCrypto"
+  },
+  {
+    "name": "org.conscrypt.NativeRef",
+    "fields": [
+      {
+        "name": "address"
+      }
+    ]
+  },
+  {
+    "name": "org.conscrypt.OpenSSLBIOInputStream",
+    "methods": [
+      {
+        "name": "gets",
+        "parameterTypes": [
+          "byte[]"
+        ]
+      }
+    ]
+  }
+]
